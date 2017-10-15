@@ -1,1 +1,1 @@
- git daemon --reuseaddr --verbose --base-path=/srv/git --export-all --enable=receive-pack /srv/git/git-workshop.git
+ git daemon --reuseaddr --verbose --base-path=/srv/git --export-all --user=grond66 --group=grond66 --enable=receive-pack /srv/git/git-workshop.git
