@@ -114,10 +114,12 @@ If you type
 
 You should see something like the following:
 
-`On branch master`  
-`Your branch is ahead of 'origin/master' by 1 commit.`  
-`  (use "git push" to publish your local commits)`  
-`nothing to commit, working tree clean`  
+```
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working tree clean
+```
 
 This means that you have a some changes that you've made that only you
 can see, because you haven't sent them to anyone else's repo. To fix
