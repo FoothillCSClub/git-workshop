@@ -70,7 +70,7 @@ associated change history from their repository (a.k.a. their repo).
 Let's try this out; Open your operating system's terminal application,
 type the following and press [ENTER]:
 
-`$ git clone git://cs.foothillstemclubs.org/git-workshop.git`
+`$ git clone https://github.com/FoothillCSClub/git-workshop.git`
 
 This will clone the source code for this workshop into the folder
 "git-workshop". (The `$` symbol represents whatever your operating
